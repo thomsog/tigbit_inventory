@@ -1,0 +1,5 @@
+---
+controller_hostname: 'tigbit1'
+controller_username: 'thomsog'
+controller_oauthtoken: 'lsFXlU7x5Bcqrkx3wQSUHcQz70SGnN'
+validate_certs: false
