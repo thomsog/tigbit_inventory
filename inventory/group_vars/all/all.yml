@@ -1,5 +1,6 @@
 ---
 controller_hostname: 'tigbit1'
 controller_username: 'thomsog'
-controller_oauthtoken: 'lsFXlU7x5Bcqrkx3wQSUHcQz70SGnN'
+#controller_oauthtoken: 'lsFXlU7x5Bcqrkx3wQSUHcQz70SGnN'
+controller_oauthtoken: 'BkqNJpxDLEkud3fSV0Bi7gMD8Gat7m'
 validate_certs: false
